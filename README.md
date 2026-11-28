@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/zinzied/AllDownloadManager-ADM/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/zinzied/AllDownloadManager-ADM?style=flat-square&label=Release"></a>
   <a href="https://github.com/zinzied/AllDownloadManager-ADM/actions/workflows/build.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/zinzied/AllDownloadManager-ADM/build.yml?style=flat-square&label=CI"></a>
-  <a href="https://github.com/zinzied/AllDownloadManager-ADM/releases/latest/download/ADM-Setup.exe"><img alt="Windows installer" src="https://img.shields.io/badge/Windows-installer-blue?style=flat-square"></a>
+  <a href="https://github.com/ZICKOr/ADM/releases/tag/v1.0.12"><img alt="Windows installer" src="https://img.shields.io/badge/Windows-installer-blue?style=flat-square"></a>
 </p>
 
 <p align="center">
